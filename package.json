@@ -1,0 +1,14 @@
+{
+  "name": "exserver",
+  "version": "1.0.0",
+  "description": "Basic server w/express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro RV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
