@@ -29,5 +29,5 @@ const setMatrix = () => {
 	matrix.setPixels(cross);
 
 	// To fill with a single color instead
-	matrix.clear([127, 0, 0]);
+	// matrix.clear([127, 0, 0]);
 } 
