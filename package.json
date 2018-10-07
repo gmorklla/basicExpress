@@ -9,6 +9,7 @@
   "author": "Alejandro RV",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "node-sense-hat": "0.0.2"
   }
 }
